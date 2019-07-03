@@ -86,6 +86,7 @@ public class App {
    */
   public static void main(String[] args) {
     new App();
+    System.out.println("Just A hello world commit ");
   }
 
 }
